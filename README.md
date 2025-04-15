@@ -38,6 +38,6 @@ from .models import book,bookadmin
 admin.site.register(book,bookadmin)
 ```
 # OUTPUT
-![Alt text](<../Screenshot 2025-04-15 112730.png>)
+![Alt text](<Screenshot 2025-04-15 112730.png>)
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
